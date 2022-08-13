@@ -28,6 +28,7 @@ const Transactions = ({list}) => {
             }
         </div>
     )
+    
 }
 
 export default Transactions

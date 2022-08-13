@@ -16,6 +16,7 @@ const InputBase = ({label, ...props}) => (
     <>
         <Input type="number" {...props} placeholder={label}/>
     </>
+    
 )
 
 export default InputBase

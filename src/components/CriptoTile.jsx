@@ -17,6 +17,7 @@ const CryptoTile = ({data, selectedTile, onClick}) => {
                 <div>{rate}</div>
             </div>
         </div>
+        
     )
 
 }

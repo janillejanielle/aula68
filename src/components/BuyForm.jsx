@@ -88,6 +88,7 @@ const BuyForm = ({data, onPurchase}) => {
             </div>
 
         </form>
+        
     )
 
 }
